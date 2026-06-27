@@ -61,16 +61,9 @@ Hero Battle/
 
 ---
 
-## 🖼️ Screenshots
-
 ### Main Menu
 ![Main Menu](screenshots/menu.png)
 
-### Hero Selection
-![Hero Selection](screenshots/select.png)
-
-### Battle Arena
-![Battle](screenshots/battle.png)
 
 ---
 
